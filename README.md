@@ -91,21 +91,6 @@ The dataset is hosted under the `ipl_stats` schema and contains four tables:
 
 ---
 
-## Dashboard Preview
-
-The SQL results were visualized as an interactive dashboard with IPL-themed styling.
-
-**Slide 1 — IPL 2025 Season Analysis**
-
-![IPL 2025 Dashboard](dashboard_2025.png)
-
-**Slide 2 — IPL 2026 Season & Cross-Season Analysis**
-
-![IPL 2026 Dashboard](dashboard_2026.png)
-
-> Dashboards include KPI cards, horizontal bar charts, bowling performance tables, and cross-season comparison charts.
-
----
 
 ## Tools & Technologies
 
@@ -149,8 +134,8 @@ LIMIT 1;
 
 **Arnab Chakraborty**
 
-[![LinkedIn](https://www.linkedin.com/in/arnabchakraborty99/)
-[![GitHub](https://github.com/cy-arn)
+[LinkedIn](https://www.linkedin.com/in/arnabchakraborty99/)
+[GitHub](https://github.com/cy-arn)
 
 ---
 
